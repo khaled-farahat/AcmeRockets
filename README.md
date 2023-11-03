@@ -19,7 +19,7 @@ ACNE Rockets is a web page for ACNE Rockets Company build with basic HTML and Ta
 
 ```bash
 
-git clone
+git clone https://github.com/khaled-farahat/AcmeRockets.git
 
 cd AcmeRockets
 

@@ -1,4 +1,4 @@
-# 🚀 ACNE Rockets
+# 🚀 ACME Rockets
 
 ## 📖 Table of Contents
 

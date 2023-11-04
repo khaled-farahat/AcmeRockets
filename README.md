@@ -2,7 +2,7 @@
 
 ## 📖 Table of Contents
 
-- [🚀 ACNE Rockets](#-acne-rockets)
+- [🚀 ACME Rockets](#-acne-rockets)
   - [📖 Table of Contents](#-table-of-contents)
 - [About](#about)
 - [Installation](#installation)
